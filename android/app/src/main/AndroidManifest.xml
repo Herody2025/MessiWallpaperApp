@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.wallpaper_app">
+    package="com.messiwallpapers.app">
 
     <!-- ✅ Basic Permissions -->
     <uses-permission android:name="android.permission.INTERNET" />
